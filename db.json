@@ -1,0 +1,10 @@
+{
+    "posts": [
+      { "id": 1, "title": "Api testing", "author": "Hemant sir" },
+       { "id": 2, "title": "Api testing lets see what happen", "author": "Hemant sir from kalvan" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
